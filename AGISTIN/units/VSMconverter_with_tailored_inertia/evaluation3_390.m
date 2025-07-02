@@ -1050,4 +1050,3 @@ eval.allsets_plus_osc_V = eval.allsets_plus_osc_V-eval.allsets_base_osc_V;
     disp(datestr(now, 'dd.mm.yyyy-HH:MM:SS'));
 
 save(strcat('eval3_',parameterrun.version,'_',num2str(parameterrun.dFF(end,:)),'_',datestr(now, 'yyyymmdd-HHMM'),'.mat'), 'eval')
-save(strcat('Z:\\WSchittek_results\\eval3_',parameterrun.version,'_',num2str(parameterrun.dFF(end,:)),'_',datestr(now, 'yyyymmdd-HHMM'),'.mat'), 'eval')
