@@ -1,4 +1,4 @@
-Copyright 2024 Fraunhofer IEE/University of Kassel, WeiweiShan, Nils Wiese & Fraunhofer IWES Christoph Kaufmann
+Copyright 2024 Fraunhofer IEE/University of Kassel, Walter Schittek
 
 
 CC BY 4.0
